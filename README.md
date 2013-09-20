@@ -8,3 +8,9 @@ Initial version created by converting the slides by @agramfort
 https://github.com/agramfort/scientific-python-intro-45mins
 
 to an IPython notebook.
+
+To present the slides using a live IPython notebook, "slidemode" from
+
+https://github.com/ipython-contrib/IPython-notebook-extensions
+
+can be used.
